@@ -1,0 +1,28 @@
+// bai tap
+1,
+var person = {age: 23, name: 'john'}
+
+- đây là khai báo 1 object có biến là person và thuộc tính là 1 cặp key và value.
+trong vd có 2 thuộc tính. - key age có giá trị là 23, 
+                          - key name có giá trị là 'john'
+						  
+2,
+var listItem = ['hello world', true , null , ['im here', 'hi bro'], {}, isWifi,'']
+
++ vị trí index số 0 có kiểu dữ liệu là string và giá trị là 'hello world'
++ vị trí index số 1 có kiểu dữ liệu là boolean và giá trị là true
++ vị trí index số 2 có kiểu dữ liệu là null và giá trị là null
++ vị trí index số 3 có kiểu dữ liệu là 1 mảng (array) và giá trị là 2 string  
++ vị trí index số 4 có kiểu dữ liệu là object và giá trị object rỗng
++ vị trí index số 5 có kiểu dữ liệu là boolean giá trị là true
++ vị trí index số 6 có kiểu dữ liệu là sting và giá trị string rỗng
+
+3,
+var listItem = [{color: "blue"}, undefined , {}, `hehe`, listItem, person ]
+
++ vị trí index số 0 có kiểu dữ liệu là object và có thuộc tính color với giá trị là "blue"
++ vị trí index số 1 có kiểu dữ liệu là undefined và chưa có giá trị
++ vị trí index số 2 có kiểu dữ liệu là object và giá trị là object rỗng
++ vị trí index số 3 có kiểu dữ liệu là string và giá trị là string rỗng
++ vị trí index số 4 có kiểu dữ liệu là boolean giá trị là true
++ vị trí index số 5 có kiểu dữ liệu là boolean giá trị là true
