@@ -26,3 +26,4 @@ var listItem = [{color: "blue"}, undefined , {}, `hehe`, listItem, person ]
 + vị trí index số 3 có kiểu dữ liệu là string và giá trị là string rỗng
 + vị trí index số 4 có kiểu dữ liệu là boolean giá trị là true
 + vị trí index số 5 có kiểu dữ liệu là boolean giá trị là true
+test tren nhanh tung
