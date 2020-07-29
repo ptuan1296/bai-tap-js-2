@@ -24,6 +24,6 @@ var listItem = [{color: "blue"}, undefined , {}, `hehe`, listItem, person ]
 + vị trí index số 1 có kiểu dữ liệu là undefined và chưa có giá trị
 + vị trí index số 2 có kiểu dữ liệu là object và giá trị là object rỗng
 + vị trí index số 3 có kiểu dữ liệu là string và giá trị là string rỗng
-+ vị trí index số 4 có kiểu dữ liệu là boolean giá trị là true
-+ vị trí index số 5 có kiểu dữ liệu là boolean giá trị là true
++ vị trí index số 4 có kiểu dữ liệu là array giá trị là 1 mảng trong đó bao gồm các kiểu dữ liệu khác.
++ vị trí index số 5 có kiểu dữ liệu là object giá trị là 1 obj
 test tren nhanh tung
